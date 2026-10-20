@@ -1,6 +1,8 @@
-._*.python__pycache__
-*.python__pycache__/.venv/*
-/mypy_cache
+._*.py
+__pycache__
+*.pyc
+/.venv/*
+.mypy_cache
 /dist/
 /build/
-*.egg-info
+*.egg-info/
